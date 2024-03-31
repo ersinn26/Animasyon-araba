@@ -35,7 +35,7 @@ body {
 
 .img.img-3 {
   position: absolute;
-  bottom: 5.3vh;
+  bottom: 5.4vh;
   left: 35%;
   animation: img-3 0.4s linear infinite alternate;
 }
